@@ -1,0 +1,1 @@
+RAG APP USING AWS Bedrock, Lambda, EC2, S3, RDS, Fastapi

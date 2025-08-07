@@ -1,0 +1,2 @@
+1) open this dir with wsl
+2) streamlit run app.py
