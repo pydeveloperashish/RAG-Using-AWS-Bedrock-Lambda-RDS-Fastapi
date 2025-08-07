@@ -46,7 +46,7 @@ export default function Chat() {
     setIsLoading(true);
 
     try {
-      const response = await fetch('http://localhost:8000/chat', {
+      const response = await fetch('http://13.203.113.141:8000/chat', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
