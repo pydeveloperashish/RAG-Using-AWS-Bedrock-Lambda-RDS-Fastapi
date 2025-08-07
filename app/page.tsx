@@ -137,9 +137,6 @@ export default function Chat() {
               <Box w="100%">
                 <Flex
                   p="22px"
-                  border="1px solid"
-                  borderColor={borderColor}
-                  borderRadius="14px"
                   w="100%"
                   zIndex={'2'}
                 >
@@ -188,9 +185,6 @@ export default function Chat() {
               </Flex>
               <Flex
                 p="22px"
-                border="1px solid"
-                borderColor={borderColor}
-                borderRadius="14px"
                 w="100%"
                 zIndex={'2'}
               >
