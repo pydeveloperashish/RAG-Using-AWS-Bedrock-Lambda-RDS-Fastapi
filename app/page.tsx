@@ -260,17 +260,6 @@ export default function Chat() {
             </Button>
           </Flex>
         </Box>
-
-        <Flex
-          justify="center"
-          mt="20px"
-          direction={{ base: 'column', md: 'row' }}
-          alignItems="center"
-        >
-          <Text fontSize="xs" textAlign="center" color={gray}>
-            AWS RAG Chatbot - Powered by Amazon Bedrock
-          </Text>
-        </Flex>
       </Flex>
     </Flex>
   );
